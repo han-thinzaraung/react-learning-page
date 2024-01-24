@@ -1,9 +1,11 @@
 
 import './App.css';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 import Header from './Header';
 import Home from './Home';
-import Feature from './Feature/Feature';
+import Feature_one from './Feature/Feature_one';
 import Feature_three from './Feature/Feature_three';
 import Feature_two from './Feature/Feature_two';
 import Pricing_one from './Pricing/Pricing_one';
@@ -15,13 +17,13 @@ import Contact from './Contact';
 import Footer from './Footer';
 
 
-
+AOS.init();
 function App() {
   return (
     <div className="App">
       <Header/>
       <Home/>
-      <Feature/>
+      <Feature_one/>
       <Feature_two/>
       <Feature_three/>
       <Pricing_one/>
