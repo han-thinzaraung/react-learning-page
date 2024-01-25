@@ -1,4 +1,3 @@
-
 import './App.css';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -20,10 +19,10 @@ import Footer from './Footer';
 AOS.init();
 function App() {
   return (
-    <div className="App">
+    <div className="container-fluid">
       <Header/>
       <Home/>
-      <Feature_one/>
+     <Feature_one/>
       <Feature_two/>
       <Feature_three/>
       <Pricing_one/>

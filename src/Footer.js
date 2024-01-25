@@ -48,7 +48,7 @@ export default function Footer() {
                     <p className="text-secondary">info@mydomain.com</p>
                 </div>
             </div>
-            <p className="text-center p-5 text-secondary ">Copyright ©2024 All rights reserved | This template is made with <i class="fa-solid fa-heart text-danger p-2"></i><a href="#" class="link_color">by Colorlib</a></p>
+            <p className="text-center p-5 text-secondary ">Copyright ©2024 All rights reserved | This template is made with  <i class="fa-solid fa-heart text-danger p-2"></i>by<a href="#" class="link_color mx-1">Colorlib</a></p>
         </div>
     </section>
     </>

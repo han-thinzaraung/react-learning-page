@@ -5,9 +5,9 @@ export default function Pricing_two() {
         <>
             {/* Pricing Two */}
             <section id="pricing_two">
-                <div className="container-fluid col-md-11 mx-auto">
+                <div className="container-fluid col-md-10 mx-auto">
                     <div className="text-center" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200">
-                        <h1 className="text-dark" style={{ 'font-family': "Nunito", 'font-weight': '500' }}>Advantage of using our products</h1>
+                        <h1 className="text-dark card_text">Advantage of using our products</h1>
                         <p className="text-secondary">Far from the countries Vokalia and Consonantia</p>
                     </div>
                     <div className="row mt-3 pt-5">
@@ -22,7 +22,7 @@ export default function Pricing_two() {
                                             </svg>
                                         </div>
                                         <div className="col-md-10">
-                                            <h3 className="text-dark" style={{ 'font-family': "Nunito", 'font-weight': '500' }}>Grow Your Business</h3>
+                                            <h4 className="text-dark card_text">Grow Your Business</h4>
                                             <p className="text-secondary">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                             <a href="" className="text-primary" style={{ 'text-decoration': 'none' }}>Learn More</a>
                                         </div>
@@ -41,7 +41,7 @@ export default function Pricing_two() {
                                             </svg>
                                         </div>
                                         <div className="col-md-10">
-                                            <h3 className="text-dark" style={{ 'font-family': "Nunito", 'font-weight': '500' }}>Build Products</h3>
+                                            <h4 className="text-dark card_text">Build Products</h4>
                                             <p className="text-secondary">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                             <a href="" className="text-primary" style={{ 'text-decoration': 'none' }}>Learn More</a>
                                         </div>
@@ -60,7 +60,7 @@ export default function Pricing_two() {
                                             </svg>
                                         </div>
                                         <div className="col-md-10">
-                                            <h3 className="text-dark" style={{ 'font-family': "Nunito", 'font-weight': '500' }}>Success Every Day</h3>
+                                            <h4 className="text-dark card_text">Success Every Day</h4>
                                             <p className="text-secondary">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                             <a href="" className="text-primary" style={{ 'text-decoration': 'none' }}>Learn More</a>
                                         </div>
@@ -78,7 +78,7 @@ export default function Pricing_two() {
                                             </svg>
                                         </div>
                                         <div className="col-md-10">
-                                            <h3 className="text-dark" style={{ 'font-family': "Nunito", 'font-weight': '500' }}>Bring Ideas To Life</h3>
+                                            <h4 className="text-dark card_text">Bring Ideas To Life</h4>
                                             <p className="text-secondary">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                             <a href="" className="text-primary" style={{ 'text-decoration': 'none' }}>Learn More</a>
                                         </div>

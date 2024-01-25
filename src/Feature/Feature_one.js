@@ -25,17 +25,17 @@ export default function Feature_one() {
                 <span><i className="fas fa-check text-primary"></i><span class="text-secondary px-3">There live the blind texts</span></span><br/>
                 <span><i className="fas fa-check text-primary"></i><span class="text-secondary px-3">Far far away behind the word</span></span><br/><br/>
                 </div>
-                <div className="fst-italic mb-3">
+                <div className="fst-italic mb-3" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="400">
                     “Separated they live in Bookmarksgrove 
                     right at the coast of the Semantics,
                      a large language ocean. A small river named Duden 
                      flows by their place and supplies it with the necessary regelialia. ”
                 </div>
                 <div className="row py-3">
-                    <div className="col-md-2" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="300">
+                    <div className="col-md-2" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="400">
                     <img src={person} alt="Image3" className="image-fluid rounded-circle" width={50} height={50}/>
                     </div>
-                    <span className="col-md-10" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="400">
+                    <span className="col-md-10" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="500">
                         <div className="font-small">James Anderson</div>
                         <p className="font-light text-secondary" style={{"font-size" : 10}}>Facebook, Product Lead</p>
                     </span>
@@ -44,7 +44,7 @@ export default function Feature_one() {
         </div>
         <div className="col-md-7">
             <div className="card card-body w-80 shadow border-0" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="300">
-            <img src={dashboard} alt="dashboard" className="image-fluid" width={600} height={400}/> 
+            <img src={dashboard} alt="dashboard" className="image-fluid"/> 
             </div>
         </div>
       </div>

@@ -16,7 +16,7 @@ export default function Feature_three() {
                                             <path d="M16 3a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"></path>
                                         </svg>
                                     </div>
-                                    <h5 className="text-dark" style={{ 'font-family': "Nunito", 'font-weight': '500' }}>Grow Your Business</h5>
+                                    <h5 className="text-dark card_text">Grow Your Business</h5>
                                     <p className="text-secondary">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                 </div>
                             </div>
@@ -30,7 +30,7 @@ export default function Feature_three() {
                                         <path fill-rule="evenodd" d="M8 3a4.995 4.995 0 0 0-4.192 2.273.5.5 0 0 1-.837-.546A6 6 0 0 1 14 8a.5.5 0 0 1-1.001 0 5 5 0 0 0-5-5zM2.5 7.5A.5.5 0 0 1 3 8a5 5 0 0 0 9.192 2.727.5.5 0 1 1 .837.546A6 6 0 0 1 2 8a.5.5 0 0 1 .501-.5z"></path>
                                     </svg>
                                 </div>
-                                    <h5 className="text-dark" style={{ 'font-family': "Nunito", 'font-weight': '500' }}>Build Products</h5>
+                                    <h5 className="text-dark card_text">Build Products</h5>
                                     <p className="text-secondary">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                 </div>
                             </div>
@@ -44,7 +44,7 @@ export default function Feature_three() {
                                             <path fill-rule="evenodd" d="M0 4.5A1.5 1.5 0 0 1 1.5 3h13A1.5 1.5 0 0 1 16 4.5v2.384l-7.614 2.03a1.5 1.5 0 0 1-.772 0L0 6.884V4.5zM1.5 4a.5.5 0 0 0-.5.5v1.616l6.871 1.832a.5.5 0 0 0 .258 0L15 6.116V4.5a.5.5 0 0 0-.5-.5h-13zM5 2.5A1.5 1.5 0 0 1 6.5 1h3A1.5 1.5 0 0 1 11 2.5V3h-1v-.5a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 0-.5.5V3H5v-.5z"></path>
                                         </svg>
                                     </div>
-                                        <h5 className="text-dark" style={{ 'font-family': "Nunito", 'font-weight': '500' }}>Success Every Day</h5>
+                                        <h5 className="text-dark card_text">Success Every Day</h5>
                                         <p className="text-secondary">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                 </div>
                             </div>
@@ -57,7 +57,7 @@ export default function Feature_three() {
                                         <path fill-rule="evenodd" d="M14.5 13.5h-13A.5.5 0 0 1 1 13V6a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5zm-13 1A1.5 1.5 0 0 1 0 13V6a1.5 1.5 0 0 1 1.5-1.5h13A1.5 1.5 0 0 1 16 6v7a1.5 1.5 0 0 1-1.5 1.5h-13zM2 3a.5.5 0 0 0 .5.5h11a.5.5 0 0 0 0-1h-11A.5.5 0 0 0 2 3zm2-2a.5.5 0 0 0 .5.5h7a.5.5 0 0 0 0-1h-7A.5.5 0 0 0 4 1z"></path>
                                     </svg>
                                 </div>
-                                    <h5 className="text-dark" style={{ 'font-family': "Nunito", 'font-weight': '500' }}>Bring Ideas To Life</h5>
+                                    <h5 className="text-dark card_text" >Bring Ideas To Life</h5>
                                     <p className="text-secondary">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                 </div>
                             </div>

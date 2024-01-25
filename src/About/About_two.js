@@ -15,7 +15,7 @@ export default function About_two() {
                   </div>
                   <div className="row">
                       <div className="col-md-4" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="300">
-                          <div className="card border-0 shadow w-8 rounded-3">
+                          <div className="card border-0 shadow w-8 rounded-3 card1">
                               <div className="card-body">
                                   <div className="row p-3">
                                       <div className="col-2 mb-3">
@@ -34,7 +34,7 @@ export default function About_two() {
                           </div>
                       </div>
                       <div className="col-md-4" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="400">
-                          <div className="card border-0 shadow w-8 rounded-3">
+                          <div className="card border-0 shadow w-8 rounded-3 card1">
                               <div className="card-body">
                                   <div className="row p-3">
                                       <div className="col-2 mb-3">
@@ -52,7 +52,7 @@ export default function About_two() {
                           </div>
                       </div>
                       <div className="col-md-4" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="600">
-                          <div className="card border-0 shadow w-8 rounded-3">
+                          <div className="card border-0 shadow w-8 rounded-3 card1">
                               <div className="card-body">
                                   <div className="row p-3">
                                       <div className="col-2 mb-3">
