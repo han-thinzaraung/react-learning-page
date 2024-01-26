@@ -10,11 +10,11 @@ export default function About_one() {
       {/* About One */}
       <section id="about_one">
         <div className="container-fluid col-md-10 mx-auto">
-          <div className="row" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200">
+          <div className="row" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200" data-aos-once="true">
             <div className="col-md-8">
               <img src={About} alt="About Image"></img>
             </div>
-            <div className="col-md-4" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200">
+            <div className="col-md-4" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200" data-aos-once="true">
               <h4 className="text-primary" style={{ 'font-family': "Nunito", 'font-weight': '600' }}>About</h4>
               <h1 className="text-dark" style={{ 'font-family': "Nunito", 'font-weight': '500' }}>About Us</h1>
               <p className="text-secondary">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast</p><br />

@@ -14,7 +14,7 @@ export default function About_two() {
                       <p className="text-secondary" style={{ 'font-family' : 'Nunito' }}>Far from the countries Vokalia and Consonantia</p>
                   </div>
                   <div className="row">
-                      <div className="col-md-4" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="300">
+                      <div className="col-md-4" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="300" data-aos-once="true">
                           <div className="card border-0 shadow w-8 rounded-3 card1">
                               <div className="card-body">
                                   <div className="row p-3">
@@ -33,7 +33,7 @@ export default function About_two() {
                               </div>
                           </div>
                       </div>
-                      <div className="col-md-4" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="400">
+                      <div className="col-md-4" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="400" data-aos-once="true">
                           <div className="card border-0 shadow w-8 rounded-3 card1">
                               <div className="card-body">
                                   <div className="row p-3">
@@ -51,7 +51,7 @@ export default function About_two() {
                               </div>
                           </div>
                       </div>
-                      <div className="col-md-4" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="600">
+                      <div className="col-md-4" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="600" data-aos-once="true">
                           <div className="card border-0 shadow w-8 rounded-3 card1">
                               <div className="card-body">
                                   <div className="row p-3">

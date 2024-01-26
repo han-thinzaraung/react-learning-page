@@ -6,12 +6,12 @@ export default function Pricing_two() {
             {/* Pricing Two */}
             <section id="pricing_two">
                 <div className="container-fluid col-md-10 mx-auto">
-                    <div className="text-center" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200">
+                    <div className="text-center" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200" data-aos-once="true">
                         <h1 className="text-dark card_text">Advantage of using our products</h1>
                         <p className="text-secondary">Far from the countries Vokalia and Consonantia</p>
                     </div>
                     <div className="row mt-3 pt-5">
-                        <div className="col-md-6 col-sm-10" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200">
+                        <div className="col-md-6 col-sm-10" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200" data-aos-once="true">
                             <div className="card border-0">
                                 <div className="card-body">
                                     <div className="row mx-3">
@@ -30,7 +30,7 @@ export default function Pricing_two() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-6 col-sm-10" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200">
+                        <div className="col-md-6 col-sm-10" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200" data-aos-once="true">
                             <div className="card border-0">
                                 <div className="card-body">
                                     <div className="row mx-3">
@@ -49,7 +49,7 @@ export default function Pricing_two() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-6 col-sm-10" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="400">
+                        <div className="col-md-6 col-sm-10" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="400" data-aos-once="true">
                             <div className="card border-0">
                                 <div className="card-body">
                                     <div className="row mx-3">
@@ -68,7 +68,7 @@ export default function Pricing_two() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-6 col-sm-10" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="400">
+                        <div className="col-md-6 col-sm-10" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="400" data-aos-once="true">
                             <div className="card border-0">
                                 <div className="card-body">
                                     <div className="row mx-3">

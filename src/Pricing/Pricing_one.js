@@ -8,7 +8,7 @@ export default function Pricing_one() {
             {/* Pricing One */}
             <section id="pricing_one" className="bg-light">
                 <div className="container-fluid col-md-10 mx-auto">
-                    <div className="text-center mb-3 p-3" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="400">
+                    <div className="text-center mb-3 p-3" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="400" data-aos-once="true">
                         <h2 style={{ 'font-family': "Nunito", 'font-weight': '500' }}>Pricing</h2>
                         <p className="text-secondary" style={{ 'font-family': "Nunito", 'font-weight': '500' }}>Pricing for everyone. Choose your plan now!</p>
                     </div>

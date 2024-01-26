@@ -14,12 +14,12 @@ export default function Footer() {
                     <div class="mt-3 mb-3">
                         <h4 style={{"font-family": "Nunito" }}>Connect</h4>
                         <div className="py-2 mt-3">
-                        <a href="#"><i className="fab fa-instagram text-secondary mx-3"></i></a>
-                          <a href="#"><i className="fab fa-twitter  text-secondary mx-3"></i></a>
-                          <a href="#"><i className="fab fa-facebook text-secondary mx-3"></i></a>
-                          <a href="#"><i className="fab fa-linkedin text-secondary mx-3"></i></a>
-                          <a href="#"><i className="fab fa-pinterest text-secondary mx-3"></i></a>
-                          <a href="#"><i className="fa-solid fa-basketball text-secondary mx-3"></i></a>
+                        <a href="#"><i className="fab fa-instagram text-secondary mx-2"></i></a>
+                          <a href="#"><i className="fab fa-twitter  text-secondary mx-2"></i></a>
+                          <a href="#"><i className="fab fa-facebook text-secondary mx-2"></i></a>
+                          <a href="#"><i className="fab fa-linkedin text-secondary mx-2"></i></a>
+                          <a href="#"><i className="fab fa-pinterest text-secondary mx-2"></i></a>
+                          <a href="#"><i className="fa-solid fa-basketball text-secondary"></i></a>
                         </div>
                     </div>
 

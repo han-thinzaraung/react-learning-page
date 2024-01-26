@@ -11,13 +11,13 @@ export default function Contact() {
             {/* Contact */}
             <section id="contact">
                 <div className="container-fluid col-md-11 mx-auto">
-                    <div className="text-center fw-light" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200">
+                    <div className="text-center fw-light" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200" data-aos-once="true">
                         <h2 style={{ "font-family": "Nunito" }}>Get In Touch</h2>
                         <p className="text-secondary" style={{ "font-family": "Nunito" }}>Far from the countries Vokalia and Consonantia</p>
                     </div>
 
                     <div className="row m-5">
-                        <div className="col-md-7 p-3" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="400">
+                        <div className="col-md-7 p-3" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="400" data-aos-once="true">
                             <div className="row ">
                                 <div class="col">
                                     <label className="text-secondary">First name</label>
@@ -41,7 +41,7 @@ export default function Contact() {
                             </div>
                         </div>
 
-                        <div className="col-md-4 align-items-center justify-content-center vh-80 m-3" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="600">
+                        <div className="col-md-4 align-items-center justify-content-center vh-80 m-3" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="600" data-aos-once="true">
                             <h4 className="p-3" style={{ "font-family": "Nunito" }} >Contact Info</h4>
                                 <p className="text-secondary" style={{ "font-family": "Nunito" }} ><FontAwesomeIcon icon={faLocationDot} className="px-1" />43 Raymouth Rd. Baltemoer, London 3910</p>
                                 <p className="text-secondary" style={{ "font-family": "Nunito" }} ><FontAwesomeIcon icon={faPhone} className="px-1" />+1(123)-456-7890 , +1(123)-456-7890</p>

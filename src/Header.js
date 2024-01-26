@@ -6,7 +6,7 @@ export default function Header() {
         <>
             {/* Header Section */}
             <section id="header" className="bg-white">
-                    <nav className="navbar navbar-expand-sm navbar-light bg-white shadow fixed-top" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="400" data-aos-delay="200">
+                    <nav className="navbar navbar-expand-sm navbar-light bg-white shadow fixed-top" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="400" data-aos-delay="200" data-aos-once="true">
                         <div className="container-fluid col-md-10  mx-auto">
                             <a className="navbar-brand text-dark"    style={{'font-weight' : '700' ,'font-size' : 24 , "font-family": "Nunito" }} href="#">Launch</a>
                             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
