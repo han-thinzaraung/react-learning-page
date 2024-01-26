@@ -11,7 +11,7 @@ export default function Footer() {
                 <div className="col-md-5">
                     <h3 className="text-dark" style={{"font-family": "Nunito" }}>About Launch</h3><br/>
                     <p className="text-secondary">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <div class="mt-3">
+                    <div class="mt-3 mb-3">
                         <h4 style={{"font-family": "Nunito" }}>Connect</h4>
                         <div className="py-2 mt-3">
                         <a href="#"><i className="fab fa-instagram text-secondary mx-3"></i></a>

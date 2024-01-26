@@ -41,12 +41,12 @@ export default function Contact() {
                             </div>
                         </div>
 
-                        <div className="col-md-4 align-items-center justify-content-center vh-80" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="600">
+                        <div className="col-md-4 align-items-center justify-content-center vh-80 m-3" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="600">
                             <h4 className="p-3" style={{ "font-family": "Nunito" }} >Contact Info</h4>
-                                <p className="text-secondary" style={{ "font-family": "Nunito" }} ><FontAwesomeIcon icon={faLocationDot} className="px-3" />43 Raymouth Rd. Baltemoer, London 3910</p>
-                                <p className="text-secondary" style={{ "font-family": "Nunito" }} ><FontAwesomeIcon icon={faPhone} className="px-3" />+1(123)-456-7890 , +1(123)-456-7890</p>
-                                <p className="text-secondary" style={{ "font-family": "Nunito" }} > <FontAwesomeIcon icon={faEnvelope} className="px-3" />info@mydomain.com</p>
-                                <p className="text-secondary" style={{ "font-family": "Nunito" }} ><FontAwesomeIcon icon={faGlobe} className="px-3" />https://Colorlib.com</p>
+                                <p className="text-secondary" style={{ "font-family": "Nunito" }} ><FontAwesomeIcon icon={faLocationDot} className="px-1" />43 Raymouth Rd. Baltemoer, London 3910</p>
+                                <p className="text-secondary" style={{ "font-family": "Nunito" }} ><FontAwesomeIcon icon={faPhone} className="px-1" />+1(123)-456-7890 , +1(123)-456-7890</p>
+                                <p className="text-secondary" style={{ "font-family": "Nunito" }} > <FontAwesomeIcon icon={faEnvelope} className="px-1" />info@mydomain.com</p>
+                                <p className="text-secondary" style={{ "font-family": "Nunito" }} ><FontAwesomeIcon icon={faGlobe} className="px-1" />https://Colorlib.com</p>
                             </div>
                     </div>
                 </div>
