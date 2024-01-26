@@ -22,16 +22,6 @@ export default function About_one() {
                 <p className ="text-secondary" data-aos="fade-up" data-aos-once="true" data-aos-delay="400"><FontAwesomeIcon icon={faCheck} className='text-primary me-2'  style={{ 'font-family': "Nunito"}}/>There live the blind texts</p>
                 <p className ="text-secondary" data-aos="fade-up" data-aos-once="true" data-aos-delay="500"><FontAwesomeIcon icon={faCheck} className='text-primary me-2' style={{ 'font-family': "Nunito"}}/>Far far away behind the word</p>
                 <p className ="text-secondary" data-aos="fade-up" data-aos-once="true" data-aos-delay="600"><FontAwesomeIcon icon={faCheck} className='text-primary me-2' style={{ 'font-family': "Nunito"}}/>Their place and supplies</p>
-                {/* <div class="col-md-1">
-                  <i className="fas fa-check text-primary"></i><br />
-                  <i className="fas fa-check text-primary"></i><br />
-                  <i className="fas fa-check text-primary"></i><br />
-                </div>
-                <div class="col-md-11">
-                  <span className="text-secondary">There live the blind texts</span><br />
-                  <span className="text-secondary">Far far away behind the word</span><br />
-                  <span className="text-secondary">Far from the countries Vokalia and Consonantia</span><br />
-                </div> */}
               </div>
               <div className="row mt-5" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="800">
                 <div className="col-md-6">

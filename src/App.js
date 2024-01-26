@@ -19,7 +19,7 @@ import Footer from './Footer';
 AOS.init();
 function App() {
   return (
-    <div className="container-fluid">
+    <div className="App">
       <Header/>
       <Home/>
      <Feature_one/>

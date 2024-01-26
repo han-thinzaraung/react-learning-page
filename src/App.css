@@ -20,7 +20,6 @@
     padding-top: 30px;
     padding-bottom: 30px;
 
-
 }
 #pricing_one{
     margin-top: 30px;
@@ -51,12 +50,18 @@
 #contact{
     margin-top: 30px;
     padding-top: 30px;
-    padding-bottom: 30px;
+}
+.button_size{
+    width:150px;
+    height:50px;
+    font-size: 10px;
 }
 .font_hover:hover{
     color:rgb(100, 100, 241);
 }
-
+.font_family{
+    font-family:Nunito,sans-serif;
+}
 
 .link_color{
     text-decoration: none;
@@ -87,10 +92,6 @@
   margin-bottom: 20px;
   margin-top: -20px;
 }
-/* .card_size{
-    height:9rem;
-    width:20rem;
-} */
 body {
     overflow-x: hidden; /* Prevent horizontal scrollbar */
 }

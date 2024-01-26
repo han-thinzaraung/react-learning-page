@@ -8,7 +8,7 @@ export default function Feature_three() {
                 <div class="container-fluid col-md-10 mt-3">
                     <div class="row">
                         <div className="col-md-3 col-sm-10 mb-4 d-flex justify-content-center"  data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200">
-                            <div className="card border-0 px-2" style={{ height: '8rem', width: '30rem' }}>
+                            <div className="card border-0 px-2">
                                 <div className="card-body">
                                     <div className="col-md-2 text-bg-info text-light rounded-4 d-flex align-items-center justify-content-center mb-3" style={{ height: 40, width: 40 }}>
                                         <svg className="bi bi-app-indicator" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -22,7 +22,7 @@ export default function Feature_three() {
                             </div>
                         </div>
                         <div className="col-md-3 col-sm-10 mb-4 d-flex justify-content-center"  data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200">
-                            <div className="card border-0 px-2" style={{ height: '8rem', width: '30rem' }}>
+                            <div className="card border-0 px-2">
                                 <div className="card-body">
                                 <div className="col-md-2 text-bg-warning text-light rounded-4 d-flex align-items-center justify-content-center mb-3" style={{ height: 40, width: 40 }}>
                                     <svg className="bi bi-arrow-repeat" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -36,7 +36,7 @@ export default function Feature_three() {
                             </div>
                         </div>
                         <div className="col-md-3 col-sm-10 mb-4 d-flex justify-content-center"  data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200">
-                            <div className="card border-0 px-2" style={{ height: '8rem', width: '30rem' }}>
+                            <div className="card border-0 px-2">
                                 <div className="card-body">
                                     <div className="col-md-2 text-bg-danger text-light rounded-4 d-flex align-items-center justify-content-center mb-3" style={{ height: 40, width: 40 }}>
                                         <svg className="bi bi-briefcase" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -50,7 +50,7 @@ export default function Feature_three() {
                             </div>
                         </div>
                         <div className="col-md-3 col-sm-10 mb-4 d-flex justify-content-center"  data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="200">
-                            <div className="card border-0 px-2" style={{ height: '8rem', width: '30rem' }}>
+                            <div className="card border-0 px-2">
                             <div className="card-body">
                                 <div className="col-md-2 text-bg-primary text-light rounded-4 d-flex align-items-center justify-content-center mb-3" style={{ height: 40, width: 40 }}>
                                     <svg className="bi bi-collection" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">

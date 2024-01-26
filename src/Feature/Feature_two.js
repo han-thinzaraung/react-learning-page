@@ -49,7 +49,7 @@ export default function Feature_two() {
 
                                         <div className="col-10">
                                             <h5 className="text-dark card_text">Grow Your Business</h5>
-                                            <p className="fw-light">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
+                                            <p className="text-secondary">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                         </div>
                                     </div>
                                     <div className="row card_hover" data-bs-target="#demo" data-bs-slide="next">
@@ -105,7 +105,6 @@ export default function Feature_two() {
                         </div>
                     </div>
                 </div>
-
             </section >
         </>
     )

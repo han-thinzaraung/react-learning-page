@@ -12,7 +12,7 @@ export default function Feature_one() {
       <div className="col-md-5">
             <div className="card-body" data-aos="fade-up">
                 <div className="text-primary py-3">DIGITAL SERVICES</div>
-                <h3 className="card-title mb-3" style={{"font-family": "Nunito" }} >
+                <h3 className="card-title mb-3 font_family">
                 Selling Digital Services
                 </h3>
                 <div className="card-text font-light text-secondary" data-aos="fade-up" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="100">
