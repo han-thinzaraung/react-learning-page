@@ -1,4 +1,5 @@
 import React from 'react'
+import {Link} from 'react-router-dom'
 
 export default function Header() {
 
@@ -15,7 +16,7 @@ export default function Header() {
                             <div className="collapse navbar-collapse" id="mynavbar">
                                 <ul className="navbar-nav me-auto">
                                     <li className="nav-item">
-                                        <a className="nav-link" href="#">Home</a>
+                                        <Link className='nav-link' to="/home">Home</Link>
                                     </li>
                                     {/* Start Drop Down */}
                                     <li className="nav-item">
@@ -43,16 +44,16 @@ export default function Header() {
                                     {/* End Drop Down */}
 
                                     <li className="nav-item">
-                                        <a className="nav-link" href="#feature_one">Features</a>
+                                        <Link className='nav-link' to="/feature">Features</Link>
                                     </li>
                                     <li className="nav-item">
-                                        <a className="nav-link" href="#pricing_one">Pricing</a>
+                                        <Link className='nav-link' to="/pricing">Pricing</Link>
                                     </li>
                                     <li className="nav-item">
-                                        <a className="nav-link" href="#about_one">About</a>
+                                        <Link className='nav-link' to="/about">About</Link>
                                     </li>
                                     <li className="nav-item">
-                                        <a className="nav-link" href="#contact">Contact</a>
+                                        <Link className='nav-link' to="/contact">Contact</Link>
                                     </li>
                                 </ul>
                                 <form className="d-flex">

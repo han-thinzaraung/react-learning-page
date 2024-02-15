@@ -14,15 +14,16 @@ import About_one from './About/About_one';
 import About_two from './About/About_two';
 import Contact from './Contact';
 import Footer from './Footer';
-
+import Outlet from 'react-router-dom';
 
 AOS.init();
 function App() {
   return (
     <div className="App">
       <Header/>
+      {/* <Outlet/> */}
       <Home/>
-     <Feature_one/>
+      <Feature_one/>
       <Feature_two/>
       <Feature_three/>
       <Pricing_one/>
