@@ -28,26 +28,82 @@ const router = createBrowserRouter([
     {
       path: "/",
       element: <App/>,
+      children:[
+        {
+          path: "/home",
+          element: 
+          <div>
+
+              <Home/>
+
+          </div>,
+        },
+        {
+          path: "/feature",
+          element:
+          <div>
+
+              <Feature_one/>
+              <Feature_two/>
+              <Feature_three/>
+
+          </div> 
+        },
+       
+        {
+          path: "/pricing",
+          element:
+          <div>
+
+              <Pricing_one/>
+              <Pricing_two/>
+              <Pricing_three/>
+
+  
+          </div> 
+        },
+        {
+          path: "/about",
+          element:
+          <div>
+
+              <About_one/>
+              <About_two/>
+
+  
+          </div> 
+        },
+        {
+          path: "/contact",
+          element:
+          <div>
+
+              <Contact/>
+
+          </div> 
+        },
+
+      ]
       
     },
     {
         path: "/home",
         element: 
         <div>
-            <Header/>
+
             <Home/>
-            <Footer/>
+
         </div>,
       },
       {
         path: "/feature",
         element:
         <div>
-            <Header/>
+
             <Feature_one/>
             <Feature_two/>
             <Feature_three/>
-            <Footer/>
+
              
         </div> 
       },
@@ -56,11 +112,11 @@ const router = createBrowserRouter([
         path: "/pricing",
         element:
         <div>
-            <Header/>
+
             <Pricing_one/>
             <Pricing_two/>
             <Pricing_three/>
-            <Footer/>
+
 
         </div> 
       },
@@ -68,10 +124,10 @@ const router = createBrowserRouter([
         path: "/about",
         element:
         <div>
-            <Header/>
+ 
             <About_one/>
             <About_two/>
-            <Footer/>
+
 
         </div> 
       },
@@ -79,9 +135,9 @@ const router = createBrowserRouter([
         path: "/contact",
         element:
         <div>
-            <Header/>
-            <Contact/>
-            <Footer/>
+
+            <Contact/>/
+ 
         </div> 
       },
   ]);
