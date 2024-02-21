@@ -16,7 +16,7 @@ export default function Header() {
                             <div className="collapse navbar-collapse" id="mynavbar">
                                 <ul className="navbar-nav me-auto">
                                     <li className="nav-item">
-                                        <Link className='nav-link' to="/home">Home</Link>
+                                        <Link className='nav-link' to="/">Home</Link>
                                     </li>
                                     {/* Start Drop Down */}
                                     <li className="nav-item">
